@@ -1,0 +1,51 @@
+span {
+  color: maroon;
+  font-weight: bold;
+}
+
+.header__about {
+  color: darkgreen;
+}
+
+.menu .menu__list > li > a {
+  text-decoration: none;
+  color: darkred;
+}
+
+.main .main__сomplementarity .main__text {
+  color: teal;
+}
+
+.main__classical .main__subtitle {
+  color: darkgrey;
+}
+
+.main__analogous h2,
+.main__analogous p {
+  color: navy;
+}
+
+.main__split .main__text .content__item + * {
+  color: darkturquoise;
+}
+
+.main__split .main__text .content__item ~ p {
+  text-decoration: line-through;
+}
+
+.main__tetradic .main__subtitle,
+.main__square .main__subtitle {
+  color: blueviolet;
+}
+
+#content__text {
+  color: darkorange;
+}
+
+.main__square .main__subtitle {
+  color: dodgerblue;
+}
+
+.main__square .main__text {
+  color: firebrick;
+}
